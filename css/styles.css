@@ -1,0 +1,136 @@
+/* Color Link
+  https://colorhunt.co/palette/1504
+  https://colorhunt.co/palette/14832
+*/
+
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  line-height: 2;
+}
+.top-container {
+  background-color: #e4f9f5;
+  padding: 150px 0 50px 0;
+  position: relative;
+}
+h1 {
+  margin: 50px auto 0 auto; /* make the h1 shift to mid */
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem; /* root em applies only to h1 */
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #11999E;
+
+}
+a {
+  color: #11999E
+}
+hr {
+  border: none;
+  border-bottom: 8px dotted #EAF6F6;
+  width: 8%;
+  margin: 90px auto;
+  clear: both;
+}
+.butn {
+  background: #75e4e6;
+  background-image: -webkit-linear-gradient(top, #75e4e6, #1e9a9e);
+  background-image: -moz-linear-gradient(top, #75e4e6, #1e9a9e);
+  background-image: -ms-linear-gradient(top, #75e4e6, #1e9a9e);
+  background-image: -o-linear-gradient(top, #75e4e6, #1e9a9e);
+  background-image: linear-gradient(to bottom, #75e4e6, #1e9a9e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  text-shadow-color: ;
+  text-shadow-x: 1;
+  text-shadow-y: 1;
+  text-shadow-blur: ;
+  padding: 10px 15px 10px 20px;
+  text-decoration: none;
+  margin: 40px 0;
+  display: inline-block;
+}
+
+.butn:hover {
+  background: #7dd8db;
+  background-image: -webkit-linear-gradient(top, #7dd8db, #5bc5c7);
+  background-image: -moz-linear-gradient(top, #7dd8db, #5bc5c7);
+  background-image: -ms-linear-gradient(top, #7dd8db, #5bc5c7);
+  background-image: -o-linear-gradient(top, #7dd8db, #5bc5c7);
+  background-image: linear-gradient(to bottom, #7dd8db, #5bc5c7);
+  text-decoration: none;
+}
+.description {
+  font-weight: normal;
+  margin: 15px 0 0 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.profile-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+.skill-chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.right-text {
+  text-align: right;
+}
+
+.middle-container {
+  padding-top: 90px;
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  padding: 40px 0;
+  background-color: #66BFBF;
+}
+.footer-link {
+  padding-left: 20px;
+  text-decoration: none;
+}
+.copyright {
+  margin-bottom: 0;
+  color: white;
+
+}
